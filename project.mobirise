@@ -38,6 +38,7 @@
     "versionFirst": "5.1.7",
     "siteFonts": [],
     "imageResize": true,
+    "publishChangesOnly": false,
     "uniqCompNum": 8,
     "versionPublish": "5.1.7"
   },
@@ -920,7 +921,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div class=\"thinkific-product-card\" data-btn-txt=\"Начать\" data-btn-txt-color=\"#ffffff\" data-btn-bg-color=\"#1b9eea\" data-card-type=\"button\" data-link-type=\"checkout\" data-product=\"841766\" data-embed-version=\"0.0.2\" data-store-url=\"https://reskill.thinkific.com/courses/take/win10ru/lessons/16164361-gui\"><div class=\"iframe-container\"></div>[JS_CODE_0]<noscript><a href=\"https://reskill.thinkific.com/enroll/841766?et=paid\" target=\"_blank\">Начать</a></noscript></div>",
+          "_customHTML": "<!-- Type valid HTML here -->\n<div oncontextmenu=\"return false;\" id=\"publitio_4lfB3Mbw\" class=\"publitioPlayer\"><div id=\"publitio_ph_4lfB3Mbw\" class=\"publitioPlaceHolder\"></div></div><link href=\"//static.publit.io/css/publitio_player.min.css\" rel=\"stylesheet\">[JS_CODE_0][JS_CODE_1]",
           "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -930,7 +931,8 @@
           "_anchor": "Video_Embed",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
-            "<script type=\"text/javascript\">document.getElementById(\"thinkific-product-embed\") || document.write('<script id=\"thinkific-product-embed\" type=\"text/javascript\" src=\"https://assets.thinkific.com/js/embeds/product-cards-client.min.js\"><\\/script>');</script>"
+            "<script src=\"//static.publit.io/js/publitio_player.min.js\"></script>",
+            "<script type=\"text/javascript\">var publitio_4lfB3Mbw = new Publitio({version: \"1.4\", type: \"video\", id: \"4lfB3Mbw\", title: \"01.Windows-Explorer\", sizeing: \"fill\", player_width: \"\", player_height: \"\", width: \"1920\", height: \"1080\", quality: \"480\", duration: \"156\", thumbnails: \"true\", muted: \"false\", fileSources: {mp4:\"https://media.publit.io/file/h_480/Win10class/01.Windows-Explorer.mp4\", webm:\"https://media.publit.io/file/h_480/Win10class/01.Windows-Explorer.webm\", ogv:\"https://media.publit.io/file/h_480/Win10class/01.Windows-Explorer.ogv\", jpg:\"https://media.publit.io/file/w_1280/Win10class/01.Windows-Explorer.jpg\"}, adTag: \"\", autoPlay: 0, controlBar: \"true\", playback: \"false\", seekbuttons: \"false\", playerSkin: \"grey\"});</script>"
           ]
         },
         {
