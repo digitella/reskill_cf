@@ -1008,7 +1008,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div class=\"thinkific-product-card\" data-btn-txt=\"Начать\" data-btn-txt-color=\"#ffffff\" data-btn-bg-color=\"#1b9eea\" data-card-type=\"button\" data-link-type=\"checkout\" data-product=\"841766\" data-embed-version=\"0.0.2\" data-store-url=\"https://klava.thinkific.com/embeds/products/show\">\n    \n    <div class=\"iframe-container\"></div>\n    \n    [JS_CODE_0]<noscript><a href=\"https://klava.thinkific.com/enroll/841766?et=paid\" target=\"_blank\">Начать</a></noscript>\n\n</div>",
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div class=\"thinkific-product-card\" data-btn-txt=\"Начать\" data-btn-txt-color=\"#ffffff\" data-btn-bg-color=\"#1b9eea\" data-card-type=\"button\" data-link-type=\"checkout\" data-product=\"841766\" data-embed-version=\"0.0.2\" data-store-url=\"https://klava.thinkific.com/embeds/products/show\">\n    \n    <div class=\"iframe-container\"></div>\n    \n    [JS_CODE_0]<noscript><a href=\"https://klava.thinkific.com/enroll/841766?et=paid\" target=\"_blank\">Записаться или войти</a></noscript>\n\n</div>",
           "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 50px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
           "alias": "code-editor",
           "_tags": [
